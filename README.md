@@ -109,16 +109,19 @@ consistent administrative processes without unnecessary complexity.
 
 ------------------------------------------------------------------------
 
-# 🏗 Azure Architecture
+## 🏗 Azure Architecture
 
 <p align="center">
-<img src="./Diagrams/01_Architecture_Diagram.png" alt="Architecture Diagram" width="100%">
+  <img src="./Diagrams/01_Architecture_Diagram.png" alt="Architecture Diagram" width="100%">
 </p>
 
+---
+
+## ☁ Azure Resource Visualizer
+
 <p align="center">
-<img src="./Diagrams/02_Azure_Resource_Visualizer.png" alt="Azure Resource Visualizer" width="100%">
+  <img src="./Diagrams/02_Azure_Resource_Visualizer.png" alt="Azure Resource Visualizer" width="100%">
 </p>
-```
 
 ------------------------------------------------------------------------
 
@@ -159,13 +162,11 @@ consistent administrative processes without unnecessary complexity.
 
 # 📂 Repository Structure
 
-``` text
 modern-workplace-deployment-azure/
 ├── README.md
 ├── Documentation/
 ├── Diagrams/
 ├── Screenshots/
-└── Images/
 ```
 
 ------------------------------------------------------------------------
