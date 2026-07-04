@@ -111,12 +111,13 @@ consistent administrative processes without unnecessary complexity.
 
 # 🏗 Azure Architecture
 
-Replace the placeholders below after uploading your images.
+<p align="center">
+<img src="./Diagrams/01_Architecture_Diagram.png" alt="Architecture Diagram" width="100%">
+</p>
 
-``` markdown
-![Architecture Diagram](Diagrams/01_Architecture_Diagram.png)
-
-![Azure Resource Visualizer](Diagrams/02_Azure_Resource_Visualizer.png)
+<p align="center">
+<img src="./Diagrams/02_Azure_Resource_Visualizer.png" alt="Azure Resource Visualizer" width="100%">
+</p>
 ```
 
 ------------------------------------------------------------------------
