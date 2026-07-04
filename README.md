@@ -174,6 +174,7 @@ modern-workplace-deployment-azure/
 ├── Diagrams/
 │   ├── 01_Architecture_Diagram.png
 │   └── 02_Azure_Resource_Visualizer.png
+    └── 03_Export Template.png
 │
 └── Screenshots/
     ├── 01_Business_Requirements.png
