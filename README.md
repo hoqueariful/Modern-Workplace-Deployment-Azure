@@ -160,9 +160,9 @@ consistent administrative processes without unnecessary complexity.
   Azure RBAC               Access Management
 
 ------------------------------------------------------------------------
+## 📂 Repository Structure
 
-# 📂 Repository Structure
-
+```text
 modern-workplace-deployment-azure/
 │
 ├── README.md
@@ -187,6 +187,8 @@ modern-workplace-deployment-azure/
     ├── 09_Resource_Tags.png
     ├── 10_Storage_Containers.png
     └── 11_RBAC_Role_Assignments.png
+
+```
 
 ------------------------------------------------------------------------
 
