@@ -214,6 +214,8 @@ modern-workplace-deployment-azure/
 -   Cloud Governance
 -   Technical Documentation
 
+- Exported the Azure Resource Manager template of the deployed environment and included it in the repository as infrastructure evidence, confirming resource types, dependencies, and configuration state at time of export.
+
 ------------------------------------------------------------------------
 
 # 📖 Lessons Learned
