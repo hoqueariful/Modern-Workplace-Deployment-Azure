@@ -1,4 +1,4 @@
-::: {align="center"}
+
 # 🏢 Modern Workplace Deployment for Contoso Design Ltd
 
 ### Microsoft Azure • Microsoft Entra ID • Azure Administration • Identity Management • Role Based Access Control
@@ -114,9 +114,9 @@ consistent administrative processes without unnecessary complexity.
 Replace the placeholders below after uploading your images.
 
 ``` markdown
-![Architecture Diagram](Diagrams/Architecture_Diagram.png)
+![Architecture Diagram](Diagrams/01_Architecture_Diagram.png)
 
-![Azure Resource Visualizer](Diagrams/Azure_Resource_Visualizer.png)
+![Azure Resource Visualizer](Diagrams/02_Azure_Resource_Visualizer.png)
 ```
 
 ------------------------------------------------------------------------
