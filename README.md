@@ -163,9 +163,10 @@ consistent administrative processes without unnecessary complexity.
 ## 📂 Repository Structure
 
 ```text
-modern-workplace-deployment-azure/
+modern workplace deployment azure/
 │
 ├── README.md
+├── template.json
 │
 ├── Documentation/
 │   ├── Business_Requirements.pdf
@@ -173,8 +174,8 @@ modern-workplace-deployment-azure/
 │
 ├── Diagrams/
 │   ├── 01_Architecture_Diagram.png
-│   └── 02_Azure_Resource_Visualizer.png
-    └── 03_Export Template.png
+│   ├── 02_Azure_Resource_Visualizer.png
+│   └── 03_Export_Template.png
 │
 └── Screenshots/
     ├── 01_Business_Requirements.png
