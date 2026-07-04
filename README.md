@@ -138,7 +138,7 @@ consistent administrative processes without unnecessary complexity.
 ## 🏷️ Resource Tags
 
 <p align="center">
-<img src="./Screanshots/09_Resource_Tags.PNG" width="95%">
+<img src="./Screenshots/09_Resource_Tags.PNG" width="95%">
 </p>
 
 <p align="center">
@@ -164,11 +164,29 @@ consistent administrative processes without unnecessary complexity.
 # 📂 Repository Structure
 
 modern-workplace-deployment-azure/
+│
 ├── README.md
+│
 ├── Documentation/
+│   ├── Business_Requirements.pdf
+│   └── Project_Report.pdf
+│
 ├── Diagrams/
-├── Screenshots/
-```
+│   ├── 01_Architecture_Diagram.png
+│   └── 02_Azure_Resource_Visualizer.png
+│
+└── Screenshots/
+    ├── 01_Business_Requirements.png
+    ├── 02_Virtual_Network.png
+    ├── 03_Network_Security_Group.png
+    ├── 04_Storage_Account.png
+    ├── 05_Virtual_Machine.png
+    ├── 06_Security_Groups.png
+    ├── 07_Users.png
+    ├── 08_Group_Membership.png
+    ├── 09_Resource_Tags.png
+    ├── 10_Storage_Containers.png
+    └── 11_RBAC_Role_Assignments.png
 
 ------------------------------------------------------------------------
 
