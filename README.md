@@ -135,14 +135,15 @@ consistent administrative processes without unnecessary complexity.
 -   SRV-ADMIN01
 -   stcdltd2026
 
-### Resource Tags
+## 🏷️ Resource Tags
 
-  Tag           Example
-  ------------- --------------------
-  Project       Modern Workplace
-  Client        Contoso Design Ltd
-  Environment   Production
-  Owner         Md Ariful Hoque
+<p align="center">
+<img src="./Screanshots/09_Resource_Tags.PNG" width="95%">
+</p>
+
+<p align="center">
+<i>Figure 09. Standardised Azure resource tags applied to improve governance and resource management.</i>
+</p>
 
 ------------------------------------------------------------------------
 
